@@ -5,6 +5,7 @@ It can answer factoid questions according to knowledge learned from Wikipedia.
 You can play with either on our [platform](http://dodo.ai/bertserini)
 or [install](https://rsvp-ai.slack.com/apps/AJ3A5LMS5-dodo) the bot into your workspace in Slack.
 
+[![](add-to-slack.jpg)](https://rsvp-ai.slack.com/apps/AJ3A5LMS5-dodo)
 
 ### Paper
 

@@ -1,16 +1,15 @@
-## Welcome BERTserini
+## Welcome DoDo with BERTserini
 
-We proposed an end-to-end open-domain question answering system called BERTserini. 
-The main idea is combing IR toolkit with machine reader. 
-When user proposed an open-domain question, we use Anserini, an open-source information 
-retrieval toolkit to extract the most related document from wikipedia. 
-Then we apply BERT, the state of the art pre-trained language representation model, 
-to identify the answer span in the document.  We finally rerank the candidates using 
-weighted score from both system. 
+DoDo is a chat bot developed by ![RSVP.ai](https://rsvp.ai).
+It can answer factoid questions according to knowledge learned from Wikipedia.
+You can play with either on our ![platform](https://dodo.ai/BERTserini)
+or ![install](https://rsvp-ai.slack.com/apps/AJ3A5LMS5-dodo) the bot into your workspace in Slack.
 
-![](poster.png)
 
-You can refer to our [paper](https://arxiv.org/abs/1902.01718) for detail.
+### Paper
+
+If you are interested in the technical detail, please refer to our research ![paper](https://amyxie361.github.io/BERTserini/Paper),
+which has been accepted by ![NAACL 2019](https://naacl2019.org/)
 
 ### Contact
 

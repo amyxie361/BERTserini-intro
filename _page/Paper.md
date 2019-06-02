@@ -1,6 +1,6 @@
 ### Paper
 
-![](poster.png)
+![](../image/poster.png)
 
 You can refer to our [paper](https://arxiv.org/abs/1902.01718) for detail.
 

@@ -8,7 +8,7 @@ Then we apply BERT, the state of the art pre-trained language representation mod
 to identify the answer span in the document.  We finally rerank the candidates using 
 weighted score from both system. 
 
-![](BERTserini-NAACL-poster-final.pdf)
+![](poster.png)
 
 You can refer to our [paper](https://arxiv.org/abs/1902.01718) for detail.
 
@@ -16,5 +16,3 @@ You can refer to our [paper](https://arxiv.org/abs/1902.01718) for detail.
 
 Having trouble with BERTserini? ![Contact us](https://amyxie361.github.io/BERTserini/Contact)
  for further help and suggestions.
-
-.

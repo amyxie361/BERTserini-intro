@@ -15,6 +15,6 @@ which has been accepted by [NAACL 2019](https://naacl2019.org/)
 
 ### Contact
 
-Having trouble with BERTserini 
+Having trouble with BERTserini? 
 [Contact us](https://amyxie361.github.io/BERTserini/Contact)
  for further help and suggestions.

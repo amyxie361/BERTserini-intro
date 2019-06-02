@@ -1,4 +1,4 @@
-## How to contact us
+### How to contact us
 
 Yuqing (Sherry) Xie: yuqing.xie@uwaterloo.ca
 

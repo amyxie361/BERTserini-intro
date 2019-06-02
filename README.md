@@ -1,4 +1,4 @@
-## Welcome DoDo with BERTserini
+![](dodo.png)<!-- .element height="50%" width="50%" -->
 
 DoDo is a chat bot developed by [RSVP.ai](http://rsvp.ai/en/#/index).
 It can answer factoid questions according to knowledge learned from Wikipedia.

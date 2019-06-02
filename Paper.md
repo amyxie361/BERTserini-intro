@@ -1,4 +1,4 @@
-# Paper
+### Paper
 
 ![](poster.png)
 

@@ -1,9 +1,20 @@
 ## Welcome BERTserini
 
-We proposed an end-to-end open-domain question answering system called BERTserini. The main idea is combing IR toolkit with machine reader. When user proposed an open-domain question, we use Anserini, an open-source information retrieval toolkit to extract the most related document from wikipedia. Then we apply BERT, the state of the art pre-trained language representation model, to identify the answer span in the document.  We finally rerank the candidates using weighted score from both system. 
+We proposed an end-to-end open-domain question answering system called BERTserini. 
+The main idea is combing IR toolkit with machine reader. 
+When user proposed an open-domain question, we use Anserini, an open-source information 
+retrieval toolkit to extract the most related document from wikipedia. 
+Then we apply BERT, the state of the art pre-trained language representation model, 
+to identify the answer span in the document.  We finally rerank the candidates using 
+weighted score from both system. 
+
+![](BERTserini-NAACL-poster-final.pdf)
 
 You can refer to our [paper](https://arxiv.org/abs/1902.01718) for detail.
 
 ### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with BERTserini? ![Contact us](https://amyxie361.github.io/BERTserini/Contact)
+ for further help and suggestions.
+
+.

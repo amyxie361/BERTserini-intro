@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e935b8fb-04cc-4dcd-947f-e69e19b528e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dodo.png" beforeDir="false" afterPath="$PROJECT_DIR$/dodo.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <first_editor>
+                <caret column="12" selection-start-column="12" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -29,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/Paper.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="3" selection-start-column="3" selection-end-column="3" />
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="62" />
               </first_editor>
               <second_editor />
             </state>
@@ -114,12 +113,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559490458614</updated>
-      <workItem from="1559490460134" duration="2547000" />
+      <workItem from="1559490460134" duration="2999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2547000" />
+    <option name="totallyTimeSpent" value="2999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -155,16 +154,6 @@
     <entry file="file://$PROJECT_DIR$/poster.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Paper.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="3" selection-start-column="3" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Contact.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -175,11 +164,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Paper.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="62" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <first_editor>
+            <caret column="12" selection-start-column="12" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>

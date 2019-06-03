@@ -1,4 +1,4 @@
-#### You have succesfully add @DoDo to you workspace!
+### You have succesfully add @DoDo to you workspace!
 
 Next step?
 
@@ -14,5 +14,5 @@ You can just search for @dodo in Apps, and the rest is just like talk to a real 
 
 ![](image/dodo-person.jpg)
 
-#### Enjoy chatting with DoDo!
+### Enjoy chatting with DoDo!
 

@@ -6,6 +6,13 @@ or [install](https://rsvp-ai.slack.com/apps/AJ3A5LMS5-dodo) the bot into your wo
 
 [![](image/add-to-slack_resize.jpg)](https://rsvp-ai.slack.com/apps/AJ3A5LMS5-dodo)
 
+### What can DoDo do?
+
+![](slack.jpg)
+
+By adding DoDo to your workspace, users can ask the bot any factoid questions during working, chatting.
+This will spare users a lot of time and improve working and communication effiency.
+
 ### Paper
 
 If you are interested in the technical [detail](https://amyxie361.github.io/BERTserini/Paper)

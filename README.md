@@ -2,17 +2,22 @@
 
 DoDo is a chat bot developed by [RSVP.ai](http://rsvp.ai/en/#/index). It can answer factoid questions according to knowledge learned from Wikipedia.
 You can play with either on our [platform](http://dodo.ai/bertserini)
-or [install](https://rsvp-ai.slack.com/apps/AJ3A5LMS5-dodo) the bot into your workspace in Slack.
+or [install](https://slack.com/apps/AJ3A5LMS5-dodo) the bot into your workspace in Slack.
 
-[![](image/add-to-slack_resize.jpg)](https://rsvp-ai.slack.com/apps/AJ3A5LMS5-dodo)
+[![](image/add-to-slack_resize.jpg)](https://slack.com/apps/AJ3A5LMS5-dodo)
 
 ### What can DoDo do?
 
-![](slack.jpg)
-
 By adding DoDo to your workspace, users can ask the bot any factoid questions during working, chatting.
-This will spare users a lot of time and improve working and communication effiency.
+This will spare users a lot of time and improve working and communication efficiency.
 
+![](image/slack.jpg)
+
+Dodo will find the most relevant paragraph and highlight the most possible phrase. You can also thumbs
+ up or down to give us a direct feedback. 
+ 
+If Dodo did not find a convincing answer, it will suggest you other questions to chat with it. 
+ 
 ### Paper
 
 If you are interested in the technical [detail](https://amyxie361.github.io/BERTserini/Paper)

@@ -2,9 +2,9 @@
 
 DoDo is a chat bot developed by [RSVP.ai](http://rsvp.ai/en/#/index). It can answer factoid questions according to knowledge learned from Wikipedia.
 You can play with either on our [platform](http://dodo.ai/bertserini)
-or [install](https://slack.com/oauth/656589961847.2394d3080d96de7fb78b79c344e240bd654bfbe6f616b695b5a7f7ac62b6b111) the bot into your workspace in Slack.
+or [install](https://slack.com/oauth/authorize?client_id=293539967155.615345701889&scope=bot) the bot into your workspace in Slack.
 
-[![](image/add-to-slack_resize.jpg)](https://slack.com/oauth/656589961847.2394d3080d96de7fb78b79c344e240bd654bfbe6f616b695b5a7f7ac62b6b111)
+[![](image/add-to-slack_resize.jpg)](https://slack.com/oauth/authorize?client_id=293539967155.615345701889&scope=bot)
 
 ### What can DoDo do?
 
